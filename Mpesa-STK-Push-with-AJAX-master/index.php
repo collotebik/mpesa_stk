@@ -29,7 +29,7 @@
                         </div>
 
                         <div class="form-group">
-                            <p class="text-warning mb-0">Amount</p> <input type="text" name="amount" placeholder="" size="17" id="amount" disabled value="1">
+                            <p class="text-warning mb-0">Amount</p> <input type="text" name="amount" placeholder="" size="17" id="amount" disabled value="4500">
                         </div>
                         <div class="form-group pt-2">
                             <div class="row d-flex">
